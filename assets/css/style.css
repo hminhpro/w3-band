@@ -216,7 +216,7 @@ html {
     color: #fff;
     text-align: center;
     width: 100%;
-
+    text-shadow: 0 0 2px #000;
 }
 #slider .text-heading {
     font-weight: 500;
